@@ -6,5 +6,7 @@ ORE V2 一键部署脚本 （测试版）
 
 一键命令 下载+执行
 
+sudo -i #提权到ROOT
+
 curl -L https://github.com/crow4586/ore/releases/download/ore/ore.sh -o ore.sh && chmod +x ore.sh && ./ore.sh
 

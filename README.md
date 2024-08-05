@@ -1,4 +1,7 @@
-ORE V2 一键部署脚本 （测试版）
+ORE V2 一键部署脚本 20240805-1 版本
+
+敢用则用，不敢用则不用，不接受未经证实的诋毁，成年人对自己负责。
+
 
 
 地址：https://github.com/crow4586/ore/releases/download/ore/ore.sh

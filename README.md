@@ -15,6 +15,7 @@ sudo -i #提权到ROOT
 curl -L https://github.com/crow4586/ore/releases/download/ore/dore.sh -o dore.sh && chmod +x dore.sh && ./dore.sh   #中文版本
 
 ================================================================
+
 ORE V2 one-click deployment script
 
 Use it if you dare to use it, don't use it if you dare not, and do not accept unproven slander. Adults are responsible for themselves.
